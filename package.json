@@ -8,14 +8,14 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-    "url": "git+https://github.com/bitfocus/companion-module-greengo-intercom.git"
+		"url": "git+https://github.com/bitfocus/companion-module-greengo-intercom.git"
 	},
 	"dependencies": {
 		"@companion-module/base": "^1.4.0",
 		"osc": "^2.4.4"
 	},
 	"devDependencies": {
-		"@companion-module/tools": "^1.5.2"
+		"@companion-module/tools": "^2.8.0"
 	},
 	"prettier": "@companion-module/tools/.prettierrc.json"
 }
